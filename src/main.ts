@@ -20,7 +20,7 @@ const main = () => {
 
 registerPlugin({
     name: 'DevTools',
-    version: '1.3.1',
+    version: '1.3.2',
     authors: ['OpenRCT2'],
     type: 'local',
     licence: 'MIT',
