@@ -9,6 +9,7 @@ const main = () => {
     EntityViewer.register();
     ImageList.register();
     NetworkMonitor.register();
+    PaletteIndexViewer.register();
 
     if (DEBUG) {
         ui.closeAllWindows();
