@@ -6,6 +6,7 @@ Plugin for OpenRCT2 providing tools to aid development of OpenRCT2.
 * Entity Viewer - Select an entity and show it's internal properties.
 * Image List - Display all the loaded sprites in the game with configurable palette.
 * Network Monitor - Display incoming and outgoing network traffic.
+* Palette index viewer - Displays all palette colours with their respective index.
 
 ## 🚀 Installation
 1. Download the latest version of the plugin from the [Releases page](https://github.com/OpenRCT2/plugin-devtools/releases).
